@@ -1,0 +1,10 @@
+Release/obj.target/addon/addon.o: ../addon.cc \
+ /home/hassanelsakndry/.cache/node-gyp/16.19.1/include/node/node.h \
+ /home/hassanelsakndry/.cache/node-gyp/16.19.1/include/node/v8.h \
+ /home/hassanelsakndry/.cache/node-gyp/16.19.1/include/node/cppgc/common.h \
+ /home/hassanelsakndry/.cache/node-gyp/16.19.1/include/node/v8config.h \
+ /home/hassanelsakndry/.cache/node-gyp/16.19.1/include/node/v8-internal.h \
+ /home/hassanelsakndry/.cache/node-gyp/16.19.1/include/node/v8-version.h \
+ /home/hassanelsakndry/.cache/node-gyp/16.19.1/include/node/v8config.h \
+ /home/hassanelsakndry/.cache/node-gyp/16.19.1/include/node/v8-platform.h \
+ /home/hassanelsakndry/.cache/node-gyp/16.19.1/include/node/node_version.h
